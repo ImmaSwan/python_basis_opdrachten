@@ -1,4 +1,4 @@
-# Python basis
+s# Python basis
 
 ### Berekeningen
 Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial.nl/course/python)

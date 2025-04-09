@@ -1,16 +1,10 @@
 # Opdracht 3 tekstfuncties
-# Naam student:
-# Groep:
+# Naam student:sven
+# Groep:it2b
 
 # Hier komt je code...
 x = 1
-y = ...
-print( ... )
+y = (4 * x ** 3) - (2 * x ** 2) - 1
+print(f"dit is {y}")
 
-x = 2
-y = ...
-print( ... )
-
-x = 0
-y = ...
-print( ... )
+verander x en dan heb je de volgende uitkomsten
