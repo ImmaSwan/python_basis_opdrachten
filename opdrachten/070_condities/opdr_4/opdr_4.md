@@ -25,6 +25,5 @@ Output:
 > salami  
 > U heeft salami besteld. Dat kost 3.0
 
-> Maak een keuze uit onze toppings: ['olijven', 'kaas', 'salami', 'pepperoni', 'ansjovis']  
-> sdfjsdf  
+> Maak een keuze uit onze toppings: ['olijven', 'kaas', 'salami', 'pepperoni', 'ansjovis']
 > Uw keuze zit niet in ons assortiment

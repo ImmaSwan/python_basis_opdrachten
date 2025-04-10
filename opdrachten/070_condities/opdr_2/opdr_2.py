@@ -1,13 +1,13 @@
 # Opdracht 2 condities
-# Naam student:
-# Groep:
+# Naam student:Sven van HIERDEN
+# Groep:IT2B
 
 # Hier komt je code...
 
-# Hier start de for-loop
+# Lijst met getallen
+getallen = [43948, 878768, 38768, 87555, 765765]
 
-my_list = [43948, 878768, 38768, 87555, 765765]
-
-# for...:
-#   if...:
-#       print()
+# Gebruik een for-loop en if-statement om de getallen die deelbaar zijn door 3 te tonen
+for getal in getallen:
+    if getal % 3 == 0:
+        print(getal)
